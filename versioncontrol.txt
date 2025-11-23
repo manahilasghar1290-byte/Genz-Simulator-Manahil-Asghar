@@ -1,0 +1,2 @@
+Version control is like having a time machine for your work. It keeps track of every change you make so if something goes wrong or you want to go back to an older idea you can do it easily. It also helps when working with others because everyone can see updates fix mistakes, and build on each other’s work without messing things up. It
+just makes projects feel more organized and stress‑free.
